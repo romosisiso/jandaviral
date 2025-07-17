@@ -1,2 +1,1 @@
-# jandaviral
-jandaviral
+# [jandaviral](https://jandaviral.pages.dev)
